@@ -138,7 +138,7 @@ def result():
 				cih+=1
 				if cih<10:
 					nom = '0'+str(cih)
-					lol.update({str(cih):str(isi)})
+isi)})
 					lol.update({nom:str(isi)})
 					print('['+nom+'] '+isi+' ---> '+str(len(hem))+' Akun'+x)
 				else:
